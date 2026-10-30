@@ -3,7 +3,7 @@
 A complete little arcade shooter written in plain Java. No downloads, no
 libraries, no build tools — just Java itself.
 
-![screenshot](docs/screenshot.png)
+![screenshot](Starfall.png)
 
 ---
 
